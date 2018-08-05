@@ -1,2 +1,3 @@
 # training
-Learn got hub
+Learn git hub
+learn 1
